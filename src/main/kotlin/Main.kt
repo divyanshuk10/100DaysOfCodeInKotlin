@@ -1,3 +1,7 @@
+import strings.capitalizeSentence
+
 fun main() {
-    println("Hello world")
+    println(
+        capitalizeSentence("hello world")
+    )
 }
